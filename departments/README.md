@@ -7,7 +7,7 @@
 该公寓位于松坪山公园附近，名为恒迪公寓11栋。地图如下：
 
 <p align="center">
-<img src="https://raw.github.com/aleen42/https-resources/master/departments/map.png" width="60%"></img>
+<img src="https://raw.github.com/aleen42/https-resources/master/departments/map.png" width="80%"></img>
 </p>
 
 ### 交通
