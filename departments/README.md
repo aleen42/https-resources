@@ -28,21 +28,21 @@
 这里不用细说了，直接上图
 
 <p align="center">
-<img src="https://raw.github.com/aleen42/https-resources/master/departments/183554183325586767.jpg" width="80%"></img>
+<img src="https://raw.github.com/aleen42/https-resources/master/departments/183554183325586767.jpg" width="50%"></img>
 </p>
 
 <p align="center">
-<img src="https://raw.github.com/aleen42/https-resources/master/departments/234554770623583296.jpg" width="80%"></img>
+<img src="https://raw.github.com/aleen42/https-resources/master/departments/234554770623583296.jpg" width="50%"></img>
 </p>
 
 <p align="center">
-<img src="https://raw.github.com/aleen42/https-resources/master/departments/348450578104208917.jpg" width="80%"></img>
+<img src="https://raw.github.com/aleen42/https-resources/master/departments/348450578104208917.jpg" width="50%"></img>
 </p>
 
 <p align="center">
-<img src="https://raw.github.com/aleen42/https-resources/master/departments/366418976648616454.jpg" width="80%"></img>
+<img src="https://raw.github.com/aleen42/https-resources/master/departments/366418976648616454.jpg" width="50%"></img>
 </p>
 
 <p align="center">
-<img src="https://raw.github.com/aleen42/https-resources/master/departments/59257418094961962.jpg" width="80%"></img>
+<img src="https://raw.github.com/aleen42/https-resources/master/departments/59257418094961962.jpg" width="50%"></img>
 </p>
